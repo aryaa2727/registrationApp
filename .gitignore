@@ -1,5 +1,4 @@
-
-node_modules
 _cacache
-_update-notifier-last-chechked
+node_modules
+_update-notifier-last-checked
 .env
